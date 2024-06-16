@@ -1,0 +1,43 @@
+.cell{
+    width:75px;
+    height:75px;
+    border:2px solid linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(207,10,80,0.5327380952380952) 54%, rgba(253,187,45,1) 100%);;
+    box-shadow: 2px 5px 5px;
+    line-height:75px;
+    font-size:70px;
+    cursor:pointer;
+}
+
+#cellContainer{
+    display:grid;
+    grid-template-columns: repeat(3, auto);
+    width:25px;
+    margin:auto;
+}
+
+#gameContainer{
+    font-family:permanent marker,cursive;
+    text-align:center;
+    
+}
+
+#restartBtn{
+    background-color: rgb(114, 114, 218);
+    width: 100px;
+    height: 50px;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px;
+    font-size: larger;
+    font:bold 20px permanent marker cursive;
+
+}
+
+#restartBtn:hover{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(17,59,154,0.5327380952380952) 54%, rgba(253,187,45,1) 100%);
+}
+
+
+body{
+    background-color: rgb(148, 120, 253);
+}
