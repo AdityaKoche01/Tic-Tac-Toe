@@ -25,7 +25,7 @@ This project is a simple implementation of the Tic Tac Toe game using HTML for t
 
 ## Demo
 
-You can view a live demo of the Tic Tac Toe game [here](https://github.com/AdityaKoche01/Tic-Tac-Toe).
+You can view a live demo of the Tic Tac Toe game [here]( https://adityakoche01.github.io/Tic-Tac-Toe/index.html).
 
 ## Features
 
