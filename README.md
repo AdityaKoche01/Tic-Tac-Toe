@@ -1,4 +1,4 @@
-Certainly! Here's a README file template for a Tic Tac Toe game implemented using HTML, CSS, and JavaScript:
+
 
 ---
 
@@ -44,6 +44,7 @@ cd tic-tac-toe
 ```
 
 2. Open `index.html` in your web browser.
+   
 
 ## Usage
 
